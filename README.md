@@ -21,7 +21,8 @@ Please feel free to [pull requests](https://github.com/Allenpandas/Awesome-ML-Su
 - **Paper Name.**
   [[pdf](link)]
   [[code](link)]
-  - Author 1, Author 2, and Author 3. *conference, year.*
+  `keywords: keywords1, keywords2, keywords3`
+  - Author 1, Author 2, and Author 3. *conference name (abbr), year. (CCF Rank)*
 ```
 
 ## Table of Contents
