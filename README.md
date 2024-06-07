@@ -22,7 +22,7 @@ Please feel free to [pull requests](https://github.com/Allenpandas/Awesome-ML-Su
   [[pdf](link)]
   [[code](link)]
   `keywords: keywords1, keywords2, keywords3.`
-  - Author 1, Author 2, and Author 3. *conference name (abbr), year. (CCF Rank)*
+  - author1, author2, and author3. *conference name (abbr), year. (CCF Rank)*
 ```
 
 ## Table of Contents
