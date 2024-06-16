@@ -28,7 +28,11 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 ## Table of Contents
 
 - [1. Backdoor Attack & Defense](#1-Backdoor-Attack--Defense)
-- [2. Adversarial Attack & Defense](#2. Adversarial Attack & Defense)
+  - [1.1. Image Segmentation](#11-Image-Segmentation)
+  - [1.2. Diffusion Model](#12-Diffusion-Model)
+  - [1.3. Reinforcement Learning](#13-Reinforcement-Learning)
+  - [1.X. Others](#1X-Others)
+- [2. Adversarial Attack & Defense](#2-Adversarial-Attack--Defense)
 
 ## List of Papers
 
