@@ -32,7 +32,7 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 
 ## List of Papers
 
-### 1. Backdoor Attack & Defense
+### 1.Backdoor Attack & Defense
 
 #### 1.1. Image Segmentation
 
