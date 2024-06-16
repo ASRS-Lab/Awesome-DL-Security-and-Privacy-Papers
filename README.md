@@ -31,21 +31,41 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 
 ## List of Papers
 
+### 1. Backdoor Attack & Defense
+
+#### 1.1. Image Segmentation
+
+- **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).**
+  - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024.*
 
 
-### 1. Data Poisoning Attack & Defense
 
-### 2. Backdoor Attack & Defense
+#### 1.2. Diffusion Model
 
-#### 2.1. Image Classification
+- **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.**
+  - Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu. *AAAI, 2024.*
+- **Elijah: Eliminating Backdoors Injected in Diffusion Models via Distribution Shift.**
+  - Shengwei An, Sheng-Yen Chou, Kaiyuan Zhang, Qiuling Xu, Guanhong Tao, Guangyu Shen, Siyuan Cheng, Shiqing Ma, Pin-Yu Chen, Tsung-Yi Ho, Xiangyu Zhang. *AAAI, 2024.*
 
-#### 2.2. Object Detection
+#### 1.3. Reinforcement Learning
 
-#### 2.3. Reinforcement Learning
+- **BadRL: Sparse Targeted Backdoor Attack against Reinforcement Learning.**
+  - Jing Cui, Yufei Han, Yuzhe Ma, Jianbin Jiao, Junge Zhang. *AAAI, 2024.*
+- 
+
+
 
 - **A Spatiotemporal Backdoor Attack Against Behavior-Oriented Decision Makers in Metaverse: From Perspective of Autonomous Driving.** [[pdf](https://ieeexplore.ieee.org/abstract/document/10368076)] `keywords: Spatiotemporal Backdoor Attack, Reinforcement Learning.`
   - Yinbo Yu, Jiajia Liu, Hongzhi Guo, Bomin Mao, Nei Kato. *IEEE Journal of Selected Areas in Communications (JSAC), 2024. (CCF-A)* 
+- **WaTrojan: Wavelet domain trigger injection for backdoor attacks.** [pdf]
+
+#### 1.X. Others
+
+- **Progressive Poisoned Data Isolation for Training-Time Backdoor Defense.**
+  - Yiming Chen, Haiwei Wu, Jiantao Zhou. *AAAI, 2024.*
+- **Conditional Backdoor Attack via JPEG Compression.**
+  - Qiuyu Duan, Zhongyun Hua, Qing Liao, Yushu Zhang, Leo Yu Zhang.
 - 
 
-### 3. Adversarial Attack & Defense
+### 2. Adversarial Attack & Defense
 
