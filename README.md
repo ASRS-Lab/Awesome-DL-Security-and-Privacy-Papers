@@ -28,9 +28,13 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 ## Table of Contents
 
 - [1. Backdoor Attack & Defense](#1-Backdoor-Attack--Defense)
-  - [1.1. Image Segmentation](#11-Image-Segmentation)
-  - [1.2. Diffusion Model](#12-Diffusion-Model)
-  - [1.3. Reinforcement Learning](#13-Reinforcement-Learning)
+  - [1.1. Image Segmentation (图像分割)](#11-Image-Segmentation)
+  - [1.2. Image Classification (图像分类)](#12-Image-Classification)
+  - [1.3. Diffusion Model (扩散模型)](#13-Diffusion-Model)
+  - [1.4. Reinforcement Learning (强化学习)](#14-Reinforcement-Learning)
+  - [1.5. Recommendation Systems (推荐系统)](#15-Recommendation-Systems)
+  - [1.6. Few-shot Learning (小样本学习)](#16-Few-shot-Learning)
+  - [1.7. Federated Learning (联邦学习)](#17-Federated-Learning)
   - [1.X. Others](#1X-Others)
 - [2. Adversarial Attack & Defense](#2-Adversarial-Attack--Defense)
 
@@ -43,22 +47,24 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 - **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).**
   - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024.*
 
-#### 1.2. Diffusion Model
+#### 1.2. Image Classification
+
+##### 1.2.1. 3D Point Cloud Classification
+
+- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.**
+  - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.*
+
+#### 1.3. Diffusion Model
 
 - **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.**
   - Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu. *AAAI, 2024.*
 - **Elijah: Eliminating Backdoors Injected in Diffusion Models via Distribution Shift.**
   - Shengwei An, Sheng-Yen Chou, Kaiyuan Zhang, Qiuling Xu, Guanhong Tao, Guangyu Shen, Siyuan Cheng, Shiqing Ma, Pin-Yu Chen, Tsung-Yi Ho, Xiangyu Zhang. *AAAI, 2024.*
 
-#### 1.3. Reinforcement Learning
+#### 1.4. Reinforcement Learning
 
 - **BadRL: Sparse Targeted Backdoor Attack against Reinforcement Learning.**
   - Jing Cui, Yufei Han, Yuzhe Ma, Jianbin Jiao, Junge Zhang. *AAAI, 2024.*
-
-#### 1.4. 3D Point Cloud Classifier
-
-- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.**
-  - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.*
 
 #### 1.5. Recommendation Systems
 
