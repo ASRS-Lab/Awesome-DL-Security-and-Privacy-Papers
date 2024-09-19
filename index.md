@@ -30,14 +30,15 @@ layout: default
 
 ### 1. Survey
 
-- **Backdoor Learning: A Survey.** <span><img src="https://img.shields.io/badge/CCF_None-6C757D"></span>
-  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* 
+- **Backdoor Learning: A Survey.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D"></span>
+  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* `Keywords: Backdoor Attack`
+- 
 
 ### 2. Poison and Backdoor
 
 #### 2.1. Image Classification
 
-- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img src="https://img.shields.io/badge/CCF_A-DC3545"></span>
+- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545"></span>
   - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.* `keywords: Invisible Backdoor Attack, 3D Point Cloud.`
 
 
