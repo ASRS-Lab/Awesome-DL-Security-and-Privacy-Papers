@@ -18,6 +18,7 @@ layout: default
 - [1. Survey](#1-survey)
 - [2. Poison & Backdoor](#2-poison-and-backdoor)
   - [2.1. Image Classification](#21-image-classification)
+  - [2.2. Object Detection](#21-object-detection)
   - [1.1. Image Segmentation (图像分割)](#11-Image-Segmentation)
   - [1.3. Diffusion Model (扩散模型)](#13-Diffusion-Model)
   - [1.4. Reinforcement Learning (强化学习)](#14-Reinforcement-Learning)
