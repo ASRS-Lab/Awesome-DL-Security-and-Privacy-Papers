@@ -5,12 +5,14 @@ layout: default
 <p align='center'>
 <img src="https://img.shields.io/github/stars/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 <img src="https://img.shields.io/github/forks/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
+<img src="https://badges.toozhao.com/badges/01J84J9TP68RXS90T6MYGYY0CH/blue.svg" />
 <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
 <a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
 <img src="https://img.shields.io/github/repo-size/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 <img src="https://img.shields.io/github/issues/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 <img src="https://img.shields.io/github/issues-pr/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 </p>
+
 # Table of Contents
 
 - [1. Survey](#1-survey)
