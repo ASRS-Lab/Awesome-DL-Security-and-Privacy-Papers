@@ -11,13 +11,13 @@ layout: default
 <img src="https://img.shields.io/github/issues/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 <img src="https://img.shields.io/github/issues-pr/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 </p>
-
-
 # Table of Contents
 
-- [1. Backdoor Attack](#Backdoor-Attack)
+- [1. Survey](#1-survey)
+
+- [2. Poison & Backdoor](#2-poison-and-backdoor)
+  - [1.1. Image Classification](#11-image-classification)
   - [1.1. Image Segmentation (图像分割)](#11-Image-Segmentation)
-  - [1.2. Image Classification (图像分类)](#12-Image-Classification)
   - [1.3. Diffusion Model (扩散模型)](#13-Diffusion-Model)
   - [1.4. Reinforcement Learning (强化学习)](#14-Reinforcement-Learning)
   - [1.5. Recommendation Systems (推荐系统)](#15-Recommendation-Systems)
@@ -28,19 +28,28 @@ layout: default
 
 ## List of Papers
 
-### 1. Backdoor Attack
+### 1. Survey
 
-#### 1.1. Image Segmentation
+- **Backdoor Learning: A Survey.** <img src="https://img.shields.io/badge/CCF_None-6C757D"></span>
+  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* 
+
+### 2. Poison and Backdoor
+
+#### 2.1. Image Classification
+
+- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img src="https://img.shields.io/badge/CCF_A-DC3545"></span>
+  - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.* `keywords: Invisible Backdoor Attack, 3D Point Cloud.`
+
+
+
+
+
+---
+
+#### 1.2. Image Segmentation
 
 - **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).** <span><img src="https://img.shields.io/badge/CCF_A-DC3545"></span>
-  - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024*. `keywords:`
-
-#### 1.2. Image Classification
-
-##### 1.2.1. 3D Point Cloud Classification
-
-- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.**
-  - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.*
+  - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024*. 
 
 #### 1.3. Diffusion Model
 
