@@ -30,7 +30,7 @@ layout: default
 
 ### 1. Survey
 
-- **Backdoor Learning: A Survey.** <img src="https://img.shields.io/badge/CCF_None-6C757D"></span>
+- **Backdoor Learning: A Survey.** <span><img src="https://img.shields.io/badge/CCF_None-6C757D"></span>
   - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* 
 
 ### 2. Poison and Backdoor
