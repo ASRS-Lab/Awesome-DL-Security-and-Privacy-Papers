@@ -1,15 +1,17 @@
-# Awesome-ML-Supply-Chain-Security-Papers
-> A curated list of Meachine learning Security & Privacy papers, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+# Awesome-DL-Security-and-Privacy-Papers
+> A curated list of deep learning Security & Privacy papers, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 <p align='center'>
 <img src="https://img.shields.io/github/stars/Allenpandas/Awesome-ML-Supply-Chain-Security-Papers.svg">
 <img src="https://img.shields.io/github/forks/Allenpandas/Awesome-ML-Supply-Chain-Security-Papers.svg">
+<img src="https://badges.toozhao.com/badges/01J84J9TP68RXS90T6MYGYY0CH/blue.svg" />
 <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
 <a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
 <img src="https://img.shields.io/github/repo-size/Allenpandas/Awesome-ML-Supply-Chain-Security-Papers.svg">
 <img src="https://img.shields.io/github/issues/Allenpandas/Awesome-ML-Supply-Chain-Security-Papers.svg">
 <img src="https://img.shields.io/github/issues-pr/Allenpandas/Awesome-ML-Supply-Chain-Security-Papers.svg">
 </p>
+
 
 ## Contributing
 
@@ -44,8 +46,8 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 
 #### 1.1. Image Segmentation
 
-- **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).**
-  - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024.*
+- **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).** <img src="https://img.shields.io/badge/CCF_A-DC3545"> 
+  - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024*.
 
 #### 1.2. Image Classification
 
