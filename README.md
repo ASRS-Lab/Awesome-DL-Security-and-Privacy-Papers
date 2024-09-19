@@ -46,7 +46,7 @@ Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-ML-Suppl
 
 #### 1.1. Image Segmentation
 
-- **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).** <img src="https://img.shields.io/badge/CCF_A-DC3545"> 
+- **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).** <p><img src="https://img.shields.io/badge/CCF_A-DC3545"></p>
   - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024*.
 
 #### 1.2. Image Classification
