@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-
-
-
-## Index
+# Index
 
 - [1. Backdoor Attack & Defense](#1-Backdoor-Attack--Defense)
   - [1.1. Image Segmentation (图像分割)](#11-Image-Segmentation)
