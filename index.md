@@ -18,7 +18,7 @@ layout: default
 - [1. Survey](#1-survey)
 - [2. Poison & Backdoor](#2-poison-and-backdoor)
   - [2.1. Image Classification](#21-image-classification)
-  - [2.2. Object Detection](#21-object-detection)
+  - [2.2. Object Detection](#22-object-detection)
   - [1.1. Image Segmentation (图像分割)](#11-Image-Segmentation)
   - [1.3. Diffusion Model (扩散模型)](#13-Diffusion-Model)
   - [1.4. Reinforcement Learning (强化学习)](#14-Reinforcement-Learning)
@@ -32,9 +32,18 @@ layout: default
 
 ### 1. Survey
 
-- **Backdoor Learning: A Survey.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D"></span>
-  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* `First Survey`
-- 
+- **Backdoor Learning: A Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
+  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* `Backdoor attack`
+- **Physical Adversarial Attack Meets Computer Vision: A Decade Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
+  - Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, Hanxun Yu, Zhubo Li, Shin’ichi Satoh, Luc Van Gool, Zheng Wang. *TPAMI, 2024.* `Physical adversarial attack`
+- **Physical Adversarial Attacks for Surveillance: A survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
+  - Kien Nguyen , Tharindu Fernando , Clinton Fookes , Sridha Sridharan. *TNNLS, 2023.* `Physical adversarial attack`
+- **A Survey on Physical Adversarial Attack in Computer Vision.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+  - Donghua Wang, Wen Yao, Tingsong Jiang, Guijian Tang, Xiaoqian Chen. *Arxiv, 2023.* `Physical adversarial attack`
+- **Visually adversarial attacks and defenses in the physical world: A survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+  - Xingxing Wei, Bangzheng Pu, Jiefan Lu, Baoyuan Wu. *Arxiv, 2022.* `visually adversarial attack`
+- **A survey of practical adversarial example attacks.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_C-28A745">
+  - Lu Sun, Mingtian Tan, Zhe Zhou. *Cybersecurity, 2018.* `adversarial example`
 
 ### 2. Poison and Backdoor
 
