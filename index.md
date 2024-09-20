@@ -32,32 +32,32 @@ layout: default
 
 ### 1. Survey
 
-- **Backdoor Learning: A Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
-  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* `Backdoor attack`
-- **Physical Adversarial Attack Meets Computer Vision: A Decade Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
-  - Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, Hanxun Yu, Zhubo Li, Shin’ichi Satoh, Luc Van Gool, Zheng Wang. *TPAMI, 2024.* `Physical adversarial attack`
-- **Physical Adversarial Attacks for Surveillance: A survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
-  - Kien Nguyen , Tharindu Fernando , Clinton Fookes , Sridha Sridharan. *TNNLS, 2023.* `Physical adversarial attack`
-- **A Survey on Physical Adversarial Attack in Computer Vision.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
-  - Donghua Wang, Wen Yao, Tingsong Jiang, Guijian Tang, Xiaoqian Chen. *Arxiv, 2023.* `Physical adversarial attack`
-- **Visually adversarial attacks and defenses in the physical world: A survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
-  - Xingxing Wei, Bangzheng Pu, Jiefan Lu, Baoyuan Wu. *Arxiv, 2022.* `visually adversarial attack`
-- **A survey of practical adversarial example attacks.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_C-28A745">
-  - Lu Sun, Mingtian Tan, Zhe Zhou. *Cybersecurity, 2018.* `adversarial example`
+1. **Backdoor Learning: A Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
+  - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* `backdoor attack`
+2. **Physical Adversarial Attack Meets Computer Vision: A Decade Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
+  - Hui Wei, Hao Tang, Xuemei Jia, Zhixiang Wang, Hanxun Yu, Zhubo Li, Shin’ichi Satoh, Luc Van Gool, Zheng Wang. *TPAMI, 2024.* `physical adversarial attack`
+3. **Physical Adversarial Attacks for Surveillance: A survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
+   - Kien Nguyen , Tharindu Fernando , Clinton Fookes , Sridha Sridharan. *TNNLS, 2023.* `physical adversarial attack`
+4. **A Survey on Physical Adversarial Attack in Computer Vision.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+   - Donghua Wang, Wen Yao, Tingsong Jiang, Guijian Tang, Xiaoqian Chen. *Arxiv, 2023.* `Physical adversarial attack`
+5. **Visually adversarial attacks and defenses in the physical world: A survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+   - Xingxing Wei, Bangzheng Pu, Jiefan Lu, Baoyuan Wu. *Arxiv, 2022.* `adversarial attack`
+6. **A survey of practical adversarial example attacks.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_C-28A745">
+   - Lu Sun, Mingtian Tan, Zhe Zhou. *Cybersecurity, 2018.* `adversarial attack`
 
 ### 2. Poison and Backdoor
 
 #### 2.1. Image Classification
 
-- **BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D"></span>
+1. **BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D"></span>
   - Tianyu Gu, Brendan Dolan-Gavitt, Siddharth Garg. *Arxiv, 2017.* `BadNets, First Work.`
 
-- **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545"></span>
+2. **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545"></span>
   - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.* `Invisible Backdoor Attack, 3D Point Cloud.`
 
 #### 2.2. Object Detection
 
-- **Untargeted backdoor attack against object detection.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008"></span>
+1. **Untargeted backdoor attack against object detection.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008"></span>
   - Chengxiao Luo,Yiming Li, Yong Jiang, Shu-Tao Xia.
 
 
