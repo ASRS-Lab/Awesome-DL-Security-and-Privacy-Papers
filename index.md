@@ -52,6 +52,7 @@ layout: default
    - Tianyu Gu, Brendan Dolan-Gavitt, Siddharth Garg. *Arxiv, 2017.* `BadNets.`
 2. **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545"></span>
    - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.* `3D Point Cloud.`
+
 #### 2.2. Object Detection
 
 1. **Untargeted backdoor attack against object detection.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008"></span>
