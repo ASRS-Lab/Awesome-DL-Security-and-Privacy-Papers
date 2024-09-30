@@ -49,21 +49,37 @@ layout: default
 #### 2.1. Image Classification
 
 1. **BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D"></span>
-  - Tianyu Gu, Brendan Dolan-Gavitt, Siddharth Garg. *Arxiv, 2017.* `BadNets.`
-
+   - Tianyu Gu, Brendan Dolan-Gavitt, Siddharth Garg. *Arxiv, 2017.* `BadNets.`
 2. **Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545"></span>
-  - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.* `3D Point Cloud.`
-
+   - Linkun Fan, Fazhi He, Tongzhen Si, Wei Tang, Bing Li. *AAAI, 2024.* `3D Point Cloud.`
 #### 2.2. Object Detection
 
 1. **Untargeted backdoor attack against object detection.** <span><img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008"></span>
-  - Chengxiao Luo,Yiming Li, Yong Jiang, Shu-Tao Xia. *ICASSP, 2023.* 
+   - Chengxiao Luo,Yiming Li, Yong Jiang, Shu-Tao Xia. *ICASSP, 2023.* 
 2. **Mask-based Invisible Backdoor Attacks on Object Detection.**
-  - Jeongjin Shin. *Arxiv, 2023.* <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+   - Jeongjin Shin. *Arxiv, 2023.* <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
 3. **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection.**
-  - Yize Cheng, Wenbin Hu, Minhao Cheng. *Arxiv, 2023.* <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+   - Yize Cheng, Wenbin Hu, Minhao Cheng. *Arxiv, 2023.* <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
 4. **BadDet: Backdoor Attacks on Object Detection.** 
-  - Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, Jun Zhou. *ECCV workshops, 2022.* <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+   - Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, Jun Zhou. *ECCV workshops, 2022.* <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
+
+
+
+#### 3D Object Detection
+
+1. **BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
+   - Saket S. Chaturvedi, Lan Zhang, Wenbin Zhang, Pan He, Xiaoyong Yuan. *IJCAI, 2024.*
+2. 
+
+
+
+
+
+
+
+
+
+
 
 ---
 
