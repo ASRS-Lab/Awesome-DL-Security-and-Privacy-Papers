@@ -77,14 +77,14 @@ layout: default
 
 #### 2.1.4. Image Segmentation
 
-1. **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">>
+1. **BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
   - Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu. *AAAI, 2024.*
 
 
 
 #### 2.1.5. Person Re-Identification
 
-1. **Invisible backdoor attack with dynamic triggers against person re-identification.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">>
+1. **Invisible backdoor attack with dynamic triggers against person re-identification.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
    -  Wenli Sun, Xinyang Jiang, Shuguang Dou, Dongsheng Li, Duoqian Miao, Cheng Deng, Cairong Zhao. *TIFS, 2024.*
 2. **DiffPhysBA: Diffusion-based Physical Backdoor Attack against Person Re-Identification in Real-World.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
    - Wenli Sun, Xinyang Jiang, Dongsheng Li, Cairong Zhao. *arxiv, 2024.*
@@ -93,11 +93,11 @@ layout: default
 
 #### 2.1.6. Video Recognition
 
-1. **PALETTE : Physically-Realizable Backdoor Attacks Against Video Recognition Models.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">>
+1. **PALETTE : Physically-Realizable Backdoor Attacks Against Video Recognition Models.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
    - Xueluan Gong, Zheng Fang, Bowen Li, Tao Wang, Yanjiao Chen, Qian Wang. *TDSC, 2024.*
-2. **Temporal-Distributed Backdoor Attack against Video Based Action Recognition.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">>
+2. **Temporal-Distributed Backdoor Attack against Video Based Action Recognition.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
    - Xi Li, Songhe Wang, Ruiquan Huang, Mahanth Gowda, George Kesidis. *AAAI, 2024.*
-3. **Clean-Label Backdoor Attacks on Video Recognition Models.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">>
+3. **Clean-Label Backdoor Attacks on Video Recognition Models.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
    - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang. *CVPR, 2020.*
 
 
@@ -110,7 +110,7 @@ layout: default
 
 1. **Large Language Models are Good Attackers: Efficient and Stealthy Textual Backdoor Attacks.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_None-6C757D">
    - Ziqiang Li, Yueqi Zeng, Pengfei Xia, Lei Liu, Zhangjie Fu, Bin Li. *arxiv, 2024.*
-2. **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">>
+2. **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_A-DC3545">
    - Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu. *AAAI, 2024.*
 
 
