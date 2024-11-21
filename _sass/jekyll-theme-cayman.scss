@@ -169,7 +169,8 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
+    // max-width: 64rem;
+    max-width: 85rem;
     // padding: 2rem 6rem;
     padding: 2rem 2rem;
     margin: 0 auto;
