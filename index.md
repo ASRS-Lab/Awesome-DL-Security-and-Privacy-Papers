@@ -12,22 +12,35 @@ layout: default
 <img src="https://img.shields.io/github/issues/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 <img src="https://img.shields.io/github/issues-pr/ASRS-Lab/Awesome-DL-Security-and-Privacy-Papers.svg">
 </p>
-
 # Table of Contents
 
-- [1. Survey](#1-survey)
-- [2. Poison & Backdoor](#2-poison-and-backdoor)
-  - [2.1. Visual Task](#21-visual-task)
-    - [2.1.1. Image Classification](#211-image-classification)
-    - [2.1.2. Object Detection](#212-object-detection)
-    - [2.1.3. 3D Object Detection](#213-3d-object-detection)
-    - [2.1.4. Image Segmentation](#214-image-segmentation)
-    - [2.1.5. Person Re-Identification](#215-person-re-identification)
-- [3. Adversarial Examples](#3-adversarial-examples)
+- Refine by venue
+- Refine by theme
+  - [1. Survey](#1-survey)
+  - [2. Poison & Backdoor](#2-poison-and-backdoor)
+    - [2.1. Visual Task](#21-visual-task)
+      - [2.1.1. Image Classification](#211-image-classification)
+      - [2.1.2. Object Detection](#212-object-detection)
+      - [2.1.3. 3D Object Detection](#213-3d-object-detection)
+      - [2.1.4. Image Segmentation](#214-image-segmentation)
+      - [2.1.5. Person Re-Identification](#215-person-re-identification)
+      - [3. Adversarial Examples](#3-adversarial-examples)
 
 # List of Papers
+## Refine by venue
 
-## 1. Survey
+> **Venue list:** 
+>
+> - **Artificial Intelligence:** AAAI(46), NeurIPS(42), CVPR(39), ICLR(38), ICML(24), IJCAI(18), ACL(18), ICCV(16), ECCV(10)
+> - **Multimedia:** ICASSP(29), ACM MM(20), ICME(7)
+> - **Information Security:** S&P(30), Usenix Security(25), NDSS(11), CCS(11), AsiaCCS(7)
+> - **Journal:** TIFS(32), COSE(22), TDSC(16)
+
+
+
+## Refine by theme
+
+### 1. Survey
 
 1. **Backdoor Learning: A Survey.** <img style="vertical-align: middle" src="https://img.shields.io/badge/CCF_B-FFC008">
   - Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. *TNNLS, 2024.* `backdoor attack`
