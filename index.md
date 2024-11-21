@@ -54,9 +54,9 @@ layout: default
    - Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li. *CVPR 2024*.
 7. 🛡**Backdoor Defense via Test-Time Detecting and Repairing.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02319)] 
    - Jiyang Guan, Jian Liang, Ran He. *CVPR 2024.* 
-8. ⚔️**BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02327)]
+8. ⚔️ **BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02327)]
    - Siyuan Liang, Mingli Zhu, Aishan Liu, Baoyuan Wu, Xiaochun Cao, Ee-Chien Chang. *CVPR 2024*.
-9. ⚔️**Lotus: Evasive and Resilient Backdoor Attacks through Sub-Partitioning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02342)]
+9. ⚔️ **Lotus: Evasive and Resilient Backdoor Attacks through Sub-Partitioning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02342)]
    - Siyuan Cheng, Guanhong Tao, Yingqi Liu, Guangyu Shen, Shengwei An, Shiwei Feng, Xiangzhe Xu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang. *CVPR 2024*.
 10. 🛡**Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-Grained Knowledge Alignment.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02344)]
     - Alvi Md. Ishmam, Christopher Thomas. *CVPR 2024*.
