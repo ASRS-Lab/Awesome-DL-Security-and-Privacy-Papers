@@ -14,8 +14,8 @@ layout: default
 </p>
 # Table of Contents
 
-- Refine by venue
-- Refine by theme
+- [Refine by venue](#Refine-by-venue)
+- [Refine by theme](#Refine-by-venue)
   - [1. Survey](#1-survey)
   - [2. Poison & Backdoor](#2-poison-and-backdoor)
     - [2.1. Visual Task](#21-visual-task)
@@ -31,10 +31,40 @@ layout: default
 
 > **Venue list:** 
 >
-> - **Artificial Intelligence:** AAAI(46), NeurIPS(42), CVPR(39), ICLR(38), ICML(24), IJCAI(18), ACL(18), ICCV(16), ECCV(10)
-> - **Multimedia:** ICASSP(29), ACM MM(20), ICME(7)
-> - **Information Security:** S&P(30), Usenix Security(25), NDSS(11), CCS(11), AsiaCCS(7)
-> - **Journal:** TIFS(32), COSE(22), TDSC(16)
+> - **Artificial Intelligence:** AAAI(46) > NeurIPS(42) > CVPR(39) > ICLR(38) > ICML(24) > IJCAI(18) > ACL(18) > ICCV(16) > ECCV(10)
+> - **Multimedia:** ICASSP(29) > ACM MM(20) > ICME(7)
+> - **Information Security:** S&P(30) > Usenix Security(25) > NDSS(11) > CCS(11) > AsiaCCS(7)
+> - **Journal:** TIFS(32) > COSE(22) > TDSC(16)
+>
+> **Update:** 2024.11.21
+
+### CVPR 
+
+1. ⚔️ **Physical Backdoor: Towards Temperature-Based Backdoor Attacks in the Physical World.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.01210)] 
+   - Wen Yin, Jian Lou, Pan Zhou, Yulai Xie, Dan Feng, Yuhua Sun, Tailai Zhang, Lichao Sun. *CVPR 2024*.
+2. ⚔️ **Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.01410)]
+   - Mozhgan Pourkeshavarz, Mohammad Sabokrou, Amir Rasouli. CVPR 2024.
+3. ⚔️ **BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02288)]
+   - Jiawang Bai, Kuofeng Gao, Shaobo Min, Shu-Tao Xia, Zhifeng Li, Wei Liu. *CVPR 2024*.
+4. ⚔️ **Data Poisoning Based Backdoor Attacks to Contrastive Learning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02299)]
+   - Jinghuai Zhang, Hongbin Liu, Jinyuan Jia, Neil Zhenqiang Gong. CVPR 2024.
+5. 🛡**Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transfomers.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02306)]
+   - Sheng Yang, Jiawang Bai, Kuofeng Gao, Yong Yang, Yiming Li, Shu-Tao Xia. CVPR 2024.
+6. 🛡**Nearest is Not Dearest: Towards Practical Defense Against Quantization-Conditioned Backdoor Attacks.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02315)]
+   - Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li. *CVPR 2024*.
+7. 🛡**Backdoor Defense via Test-Time Detecting and Repairing.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02319)] 
+   - Jiyang Guan, Jian Liang, Ran He. *CVPR 2024.* 
+8. ⚔️**BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02327)]
+   - Siyuan Liang, Mingli Zhu, Aishan Liu, Baoyuan Wu, Xiaochun Cao, Ee-Chien Chang. *CVPR 2024*.
+9. ⚔️**Lotus: Evasive and Resilient Backdoor Attacks through Sub-Partitioning.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02342)]
+   - Siyuan Cheng, Guanhong Tao, Yingqi Liu, Guangyu Shen, Shengwei An, Shiwei Feng, Xiangzhe Xu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang. *CVPR 2024*.
+10. 🛡**Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-Grained Knowledge Alignment.** [[pdf](https://doi.org/10.1109/CVPR52733.2024.02344)]
+    - Alvi Md. Ishmam, Christopher Thomas. *CVPR 2024*.
+
+
+
+
+
 
 
 
