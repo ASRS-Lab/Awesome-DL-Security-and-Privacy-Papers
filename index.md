@@ -121,9 +121,9 @@ layout: default
 
 #### 2020
 
-1. ⚔️ **Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.** [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.html)]
+1. 🛡 **Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.** [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.html)]
    - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, Heiko Hoffmann. *CVPR 2020.*
-2. ⚔️ **Clean-Label Backdoor Attacks on Video Recognition Models.** [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.html)]
+2. ⚔️ **Clean-Label Backdoor Attacks on Video Recognition Models.** [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.html)] 
    - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang. *CVPR 2020.*
 
 
